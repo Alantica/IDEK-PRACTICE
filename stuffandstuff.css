@@ -6,4 +6,12 @@ p{
     font-family: sans-serif;
     font-size: 108;
     font-style: oblique;
+    font: verdana;
+}
+
+o{
+    color: darksalmon;
+    font-family: sans-serif;
+    font-size: 108;
+    font-style: oblique;
 }
